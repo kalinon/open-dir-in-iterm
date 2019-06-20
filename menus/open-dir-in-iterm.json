@@ -1,16 +1,16 @@
 {
   "context-menu": {
     "atom-text-editor": [{
-      "label": "Open Dir in iTerm",
+      "label": "Open directory in iTerm",
       "command": "open-dir-in-iterm:run"
     }]
   },
   "menu": [{
     "label": "Packages",
     "submenu": [{
-      "label": "Open Dir in iTerm",
+      "label": "open-dir-in-iterm",
       "submenu": [{
-        "label": "Run",
+        "label": "Open iTerm Session",
         "command": "open-dir-in-iterm:run"
       }]
     }]
