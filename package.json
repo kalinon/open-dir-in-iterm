@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "open-dir-in-iterm:run"
   },
-  "repository": "https://github.com/alinon/open-dir-in-iterm",
+  "repository": "https://github.com/kalinon/open-dir-in-iterm",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
