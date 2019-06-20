@@ -1,0 +1,21 @@
+{
+  "name": "open-dir-in-iterm",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "Open current directory in iTerm",
+  "keywords": [
+    "iterm",
+    "terminal"
+  ],
+  "activationCommands": {
+    "atom-workspace": "open-dir-in-iterm:run"
+  },
+  "repository": "https://github.com/alinon/open-dir-in-iterm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}

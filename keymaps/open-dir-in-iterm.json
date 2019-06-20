@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-shift-r": "open-dir-in-iterm:run"
+  }
+}
